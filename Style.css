@@ -1,0 +1,44 @@
+body
+{
+	margin:0px;
+	padding: 0px;
+	font-family: sans-serif;
+}
+
+header
+{
+	background:white;
+	padding: 40px 0;
+	text-align: left;
+	text-decoration-color: blue;
+	color: white; 
+}
+
+nav ul
+{
+	background-color: black;
+	overflow: hidden;
+	color: white;
+	text-align: left;
+	padding:10px;
+	margin: 0;
+}
+
+a
+{
+	text-decoration: none;
+	color: white;
+}
+
+nav ul li
+{
+	padding: 10px;
+	display: inline-block;
+}
+
+nav ul li:hover
+{
+	background-color: white;
+	padding: 10px;
+
+}
